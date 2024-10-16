@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\idb\\MAUI\\productApiIdb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|f:\\idb\\maui\\productapiidb\\productsapi\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|f:\\idb\\maui\\productapiidb\\productsapi\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|f:\\idb\\maui\\productapiidb\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|f:\\idb\\maui\\productapiidb\\productsapi\\data\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\data\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|f:\\idb\\maui\\productapiidb\\productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B79B094-2B20-4991-876E-F5CCD0E0FE5D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategoriesController.cs",
+              "DocumentMoniker": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "ToolTip": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductCategoriesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:52:40.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\ProductCategory.cs",
+              "ToolTip": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:48:03.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\Product.cs",
+              "ToolTip": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:47:59.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsAPIContext.cs",
+              "DocumentMoniker": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "ToolTip": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "RelativeToolTip": "ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwBAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:42:33.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsAPI\\appsettings.json",
+              "ToolTip": "F:\\idb\\MAUI\\productApiIdb\\ProductsAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T17:42:24.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
